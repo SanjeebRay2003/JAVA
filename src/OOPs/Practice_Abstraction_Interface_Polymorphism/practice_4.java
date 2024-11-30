@@ -54,8 +54,8 @@ public class practice_4 {
         tv.previous();
         tv.volumeUp();
         tv.volumeDown();
-        tv.zoom();
         tv.voiceAssistant();
+        tv.zoom();
 
     }
 }

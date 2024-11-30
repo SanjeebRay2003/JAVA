@@ -5,56 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA-Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Do_DoWhile_oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Abstraction/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Classes/Custom_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Constructors/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Dynamic_Dispatch/Dynamic_dispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Practice/practice_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Extend_Implement_relations/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Extend_Implement_relations/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Extend_Implement_relations/extend_implement_relations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Smart_Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/default_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Overloading/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Overriding/Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Recursion/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/method_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/methods_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/pattern_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +72,7 @@
     "Application.practice_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/JAVA-Basics/src/Main.java",
