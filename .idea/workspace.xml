@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Do_DoWhile_oops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Abstraction/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Classes/Custom_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Constructors/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Dynamic_Dispatch/Dynamic_dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/Practice/practice_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance/inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Extend_Implement_relations/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Extend_Implement_relations/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Extend_Implement_relations/extend_implement_relations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/Smart_Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface/default_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Overloading/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Overriding/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Practice_Abstraction_Interface_Polymorphism/practice_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Recursion/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/Practice/practice_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/method_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/methods/methods_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/pattern_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Polymorphism.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pG9kpNceahQu2GvMapF21MAaSZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.Array_2D.executor": "Run",
+    "Application.Custom_Class.executor": "Run",
+    "Application.Cylinder.executor": "Run",
+    "Application.Do_DoWhile_oops.executor": "Run",
+    "Application.Dynamic_dispatch.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Interface.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OOPs.Practice_Abstranction_Interface.practice_1.executor": "Run",
+    "Application.OOPs.methods.Practice.practice_2.executor": "Run",
+    "Application.Overloading.executor": "Run",
+    "Application.Overriding.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.Smart_Phone.executor": "Run",
+    "Application.Square.executor": "Run",
+    "Application.Super.executor": "Run",
+    "Application.default_interface.executor": "Run",
+    "Application.for_loop.executor": "Run",
+    "Application.inheritance.executor": "Run",
+    "Application.method_3.executor": "Run",
+    "Application.methods.executor": "Run",
+    "Application.methods_Array.executor": "Run",
+    "Application.pattern_1.executor": "Run",
+    "Application.practice_1 (1).executor": "Run",
+    "Application.practice_1.executor": "Run",
+    "Application.practice_2.executor": "Run",
+    "Application.practice_3.executor": "Run",
+    "Application.practice_4.executor": "Run",
+    "Application.practice_5.executor": "Run",
+    "Application.practice_6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/JAVA-Basics/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.practice_4">
+    <configuration name="OOPs.Practice_Abstranction_Interface.practice_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstranction_Interface.practice_1" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Practice_Abstranction_Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_1" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_1" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_2" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_3" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_4" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.practice_4" />
+        <item itemvalue="Application.practice_2" />
+        <item itemvalue="Application.practice_3" />
+        <item itemvalue="Application.practice_1" />
+        <item itemvalue="Application.OOPs.Practice_Abstraction_Interface_Polymorphism.practice_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="" />
+      <created>1732381695522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732381695522</updated>
+    </task>
+    <servers />
+  </component>
+</project>
