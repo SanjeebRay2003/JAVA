@@ -37,7 +37,7 @@ class boss extends thread1{
     }
 }
 
-public class Multithreading{
+public class Using_Extends_Thread{
     public static void main(String[] args) {
 
         thread1 obj1 = new thread1();
