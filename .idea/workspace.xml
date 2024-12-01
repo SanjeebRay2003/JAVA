@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Multithreading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +48,7 @@
     "Application.Hello.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Multithreading.executor": "Run",
     "Application.OOPs.Practice_Abstranction_Interface.practice_1.executor": "Run",
     "Application.OOPs.methods.Practice.practice_2.executor": "Run",
     "Application.Overloading.executor": "Run",
@@ -82,13 +84,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.practice_4">
-    <configuration name="OOPs.Practice_Abstranction_Interface.practice_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstranction_Interface.practice_1" />
+  <component name="RunManager" selected="Application.Multithreading">
+    <configuration name="Multithreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Multithreading" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs.Practice_Abstranction_Interface.*" />
+          <option name="PATTERN" value="OOPs.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multithreading" />
         <item itemvalue="Application.practice_4" />
         <item itemvalue="Application.practice_2" />
         <item itemvalue="Application.practice_3" />
         <item itemvalue="Application.practice_1" />
-        <item itemvalue="Application.OOPs.Practice_Abstraction_Interface_Polymorphism.practice_1" />
       </list>
     </recent_temporary>
   </component>
