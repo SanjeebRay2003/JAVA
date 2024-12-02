@@ -7,6 +7,7 @@ class multithread1 implements Runnable{
             System.out.println("I am eating now ");
         }
     }
+
 }
 
 class multithread2 implements Runnable{
@@ -16,6 +17,7 @@ class multithread2 implements Runnable{
             System.out.println("I am Watching movie now ");
         }
     }
+
 }
 
 
@@ -27,6 +29,7 @@ public class Using_Runnable_interface {
         multithread2 obj2 = new multithread2();
         Thread OBJ2 = new Thread(obj2);  // creating new thread object associate with obj2 which call obj2.run();
 
+      
 //        OBJ1.start();
 //        OBJ2.start();
 

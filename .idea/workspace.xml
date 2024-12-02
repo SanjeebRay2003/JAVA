@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Using_Runnable_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Thread_Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Thread_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Thread_Priority.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs/Multithreading/Multithreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Using_Extends_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs/Multithreading/Using_Runnable_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Multithreading/Using_Runnable_interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs/Overriding/Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Overriding/Overriding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +62,9 @@
     "Application.Smart_Phone.executor": "Run",
     "Application.Square.executor": "Run",
     "Application.Super.executor": "Run",
+    "Application.Thread_Constructors.executor": "Run",
+    "Application.Thread_Methods.executor": "Run",
+    "Application.Thread_Priority.executor": "Run",
     "Application.Using_Extends_Thread.executor": "Run",
     "Application.Using_Runnable_interface.executor": "Run",
     "Application.default_interface.executor": "Run",
@@ -87,9 +93,35 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Using_Runnable_interface">
-    <configuration name="Multithreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Multithreading" />
+  <component name="RunManager" selected="Application.Thread_Methods">
+    <configuration name="Thread_Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Thread_Constructors" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Thread_Methods" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs.Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread_Priority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Thread_Priority" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
@@ -127,52 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_1" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_2" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Practice_Abstraction_Interface_Polymorphism.practice_4" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs.Practice_Abstraction_Interface_Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Thread_Methods" />
+        <item itemvalue="Application.Thread_Priority" />
+        <item itemvalue="Application.Thread_Constructors" />
         <item itemvalue="Application.Using_Runnable_interface" />
         <item itemvalue="Application.Using_Extends_Thread" />
-        <item itemvalue="Application.Multithreading" />
-        <item itemvalue="Application.practice_4" />
-        <item itemvalue="Application.practice_2" />
       </list>
     </recent_temporary>
   </component>
@@ -186,5 +179,16 @@
       <updated>1732381695522</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
