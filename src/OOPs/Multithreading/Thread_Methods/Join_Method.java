@@ -1,4 +1,4 @@
-package OOPs.Multithreading;
+package OOPs.Multithreading.Thread_Methods;
 
 class meth1 extends Thread{
     @Override
@@ -18,7 +18,7 @@ class meth2 extends Thread{
     }
 }
 
-public class Thread_Methods {
+public class Join_Method {
     public static void main(String[] args) {
         meth1 obj1 = new meth1();
         meth2 obj2 = new meth2();
