@@ -24,7 +24,7 @@ public class Customized_Exception {
             try {
                 throw new myException(); // custom Exception
             }
-            catch (Exception e){
+            catch (myException e){
                 System.out.println(e.getMessage());
                 System.out.println(e.toString());
 

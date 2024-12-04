@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception_Handling/Nested_try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_Handling/throw_throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_Handling/try_catch_finally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,9 @@
     "Application.practice_4.executor": "Run",
     "Application.practice_5.executor": "Run",
     "Application.practice_6.executor": "Run",
+    "Application.throw_throws.executor": "Run",
     "Application.try_catch.executor": "Run",
+    "Application.try_catch_finally.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -95,7 +97,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Customized_Exception">
+  <component name="RunManager" selected="Application.try_catch_finally">
     <configuration name="Customized_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exception_Handling.Customized_Exception" />
       <module name="JAVA-Basics" />
@@ -122,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sleep_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Thread_Methods.Sleep_Method" />
+    <configuration name="throw_throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception_Handling.throw_throws" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs.Multithreading.Thread_Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Thread_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Thread_Methods" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOPs.Multithreading.Thread_Methods.*" />
+          <option name="PATTERN" value="Exception_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,13 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="try_catch_finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception_Handling.try_catch_finally" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exception_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.try_catch_finally" />
+        <item itemvalue="Application.throw_throws" />
         <item itemvalue="Application.Customized_Exception" />
         <item itemvalue="Application.Nested_try_catch" />
         <item itemvalue="Application.try_catch" />
-        <item itemvalue="Application.Sleep_Method" />
-        <item itemvalue="Application.Thread_Methods" />
       </list>
     </recent_temporary>
   </component>
