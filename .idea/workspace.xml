@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exception_Handling/throw_throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception_Handling/try_catch_finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs/Constructors/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Constructors/Super.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +81,7 @@
     "Application.practice_4.executor": "Run",
     "Application.practice_5.executor": "Run",
     "Application.practice_6.executor": "Run",
+    "Application.practice_7.executor": "Run",
     "Application.throw_throws.executor": "Run",
     "Application.try_catch.executor": "Run",
     "Application.try_catch_finally.executor": "Run",
@@ -97,13 +97,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.try_catch_finally">
-    <configuration name="Customized_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Handling.Customized_Exception" />
+  <component name="RunManager" selected="Application.practice_5">
+    <configuration name="Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Constructors.Super" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Handling.*" />
+          <option name="PATTERN" value="OOPs.Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nested_try_catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Handling.Nested_try_catch" />
+    <configuration name="practice_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.practice_5" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Handling.*" />
+          <option name="PATTERN" value="Arrays.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="throw_throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Handling.throw_throws" />
+    <configuration name="practice_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.practice_6" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Handling.*" />
+          <option name="PATTERN" value="Arrays.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="try_catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Handling.try_catch" />
+    <configuration name="practice_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.practice_7" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Handling.*" />
+          <option name="PATTERN" value="Arrays.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practice_5" />
+        <item itemvalue="Application.practice_6" />
+        <item itemvalue="Application.practice_7" />
+        <item itemvalue="Application.Super" />
         <item itemvalue="Application.try_catch_finally" />
-        <item itemvalue="Application.throw_throws" />
-        <item itemvalue="Application.Customized_Exception" />
-        <item itemvalue="Application.Nested_try_catch" />
-        <item itemvalue="Application.try_catch" />
       </list>
     </recent_temporary>
   </component>

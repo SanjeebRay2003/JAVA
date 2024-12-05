@@ -27,11 +27,13 @@ class second extends first{
 
 // Child class
 class third extends second{
-    third(){
+  third(){
+        super();
         System.out.println("this is class third");
 
     }
     third(int a,int b,int c){
+
         super(a,b);
         System.out.println("third "+c);
     }
@@ -44,6 +46,7 @@ public class Super {
 
 //        second obj = new second();
         third obj = new third(1,2,3);
+        third obj1 = new third();
 
     }
 }
