@@ -21,7 +21,8 @@ public class practice_7 {
 
         System.out.println("Values of array in reverse order");
         for (int i =n-1;i>=0;i--){
-            System.out.println(arr[i]);
+            System.out.print(arr[i]);
+
         }
 
 
