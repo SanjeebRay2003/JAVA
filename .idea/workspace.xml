@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/ArrayList/Array_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Deque/Array_Deque/Array_Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Array_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/Linked_List/linked_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/Hash_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Date_Time/Date_Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Generic/Bounded_Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Generic/Generic_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Generic/Generic_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Wrapper_Class/value_Of.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Wrapper_Class/wrapper_class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Practice/practice_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Practice/practice_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/ArrayList/Array_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/Customized_Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/Nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/Nested_try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/throw_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/throw_throws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/try_catch_finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/try_catch_finally.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +52,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Abstraction.executor": "Run",
+    "Application.Advance_Java.Collection_Framework.Lists.Linked_List.linked_list.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Array_2D.executor": "Run",
+    "Application.Array_Deque.executor": "Run",
     "Application.Array_List.executor": "Run",
     "Application.Custom_Class.executor": "Run",
     "Application.Customized_Exception.executor": "Run",
     "Application.Cylinder.executor": "Run",
+    "Application.Date_Time.executor": "Run",
     "Application.Do_DoWhile_oops.executor": "Run",
     "Application.Dynamic_dispatch.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.Example2.executor": "Run",
+    "Application.Generic.executor": "Run",
+    "Application.Generic_Method.executor": "Run",
+    "Application.Hash_set.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.Main.executor": "Run",
@@ -71,6 +91,7 @@
     "Application.default_interface.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.inheritance.executor": "Run",
+    "Application.linked_list.executor": "Run",
     "Application.method_3.executor": "Run",
     "Application.methods.executor": "Run",
     "Application.methods_Array.executor": "Run",
@@ -86,6 +107,7 @@
     "Application.throw_throws.executor": "Run",
     "Application.try_catch.executor": "Run",
     "Application.try_catch_finally.executor": "Run",
+    "Application.value_Of.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -98,13 +120,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array_List">
-    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.ArrayList.Array_List" />
+  <component name="RunManager" selected="Application.Bounded_Generic">
+    <configuration name="Bounded_Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Generic.Bounded_Generic" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.ArrayList.*" />
+          <option name="PATTERN" value="Advance_Java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Constructors.Super" />
+    <configuration name="Date_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Date_Time.Date_Time" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs.Constructors.*" />
+          <option name="PATTERN" value="Advance_Java.Date_Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.practice_5" />
+    <configuration name="Generic_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Generic.Generic_Method" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Practice.*" />
+          <option name="PATTERN" value="Advance_Java.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.practice_6" />
+    <configuration name="Hash_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Hash_Set.Hash_set" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Practice.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Hash_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Practice.practice_7" />
+    <configuration name="value_Of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Wrapper_Class.value_Of" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Practice.*" />
+          <option name="PATTERN" value="Advance_Java.Wrapper_Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,13 +186,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Bounded_Generic" />
+      <item itemvalue="Application.Generic_Method" />
+      <item itemvalue="Application.value_Of" />
+      <item itemvalue="Application.Date_Time" />
+      <item itemvalue="Application.Hash_set" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array_List" />
-        <item itemvalue="Application.practice_7" />
-        <item itemvalue="Application.practice_5" />
-        <item itemvalue="Application.practice_6" />
-        <item itemvalue="Application.Super" />
+        <item itemvalue="Application.Bounded_Generic" />
+        <item itemvalue="Application.Generic_Method" />
+        <item itemvalue="Application.value_Of" />
+        <item itemvalue="Application.Date_Time" />
+        <item itemvalue="Application.Hash_set" />
       </list>
     </recent_temporary>
   </component>
@@ -186,11 +215,33 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="05f8260c-8516-483a-a92e-a39d2fe9fdad" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
+        <entry key="05f8260c-8516-483a-a92e-a39d2fe9fdad">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
