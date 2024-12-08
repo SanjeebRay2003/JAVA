@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Deque/Array_Deque/Array_Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Array_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/Linked_List/linked_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/Hash_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Date_Time/Date_Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Generic/Bounded_Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Generic/Generic_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Generic/Generic_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Wrapper_Class/value_Of.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Wrapper_Class/wrapper_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/ArrayList/Array_List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/Customized_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/Customized_Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/Nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/Nested_try_catch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/throw_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/throw_throws.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/try_catch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/try_catch_finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/try_catch_finally.java" afterDir="false" />
-    </list>
+    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +39,7 @@
     "Application.Array_2D.executor": "Run",
     "Application.Array_Deque.executor": "Run",
     "Application.Array_List.executor": "Run",
+    "Application.Bounded_Generic.executor": "Run",
     "Application.Custom_Class.executor": "Run",
     "Application.Customized_Exception.executor": "Run",
     "Application.Cylinder.executor": "Run",
