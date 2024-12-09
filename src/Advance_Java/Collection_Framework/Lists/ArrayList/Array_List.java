@@ -2,6 +2,7 @@ package Advance_Java.Collection_Framework.Lists.ArrayList;
 
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Array_List {
     public static void main(String[] args) {
@@ -15,13 +16,21 @@ public class Array_List {
         arr.add(49);
 
         ArrayList<Integer> arr2 = new ArrayList<>();
-        arr.add(5);
-        arr.add(2);
-        arr.add(1);
-        arr.add(6);
-        arr.add(9);
+        arr2.add(5);
+        arr2.add(2);
+        arr2.add(1);
+        arr2.add(6);
+        arr2.add(9);
 
-        arr.addAll(arr2); // adding arr2 in arr
+        System.out.println(arr);
+
+        List<Integer> sublist = arr.subList(1,3);
+        System.out.println(sublist);
+
+        arr.addAll(2,arr2); // add the arr2 in arr according to given index
+
+
+
         arr.add(2,500);
 
         System.out.println("In array form : \n"+arr); // this prints the elements of array in the form of array

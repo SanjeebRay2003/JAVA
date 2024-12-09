@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="" />
+    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Remove_Retain_All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/QUEUE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Stack/stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Deque/Array_Deque/Array_Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Array_Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Array_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Array_List.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +69,9 @@
     "Application.Overloading.executor": "Run",
     "Application.Overriding.executor": "Run",
     "Application.Polymorphism.executor": "Run",
+    "Application.QUEUE.executor": "Run",
     "Application.Recursion.executor": "Run",
+    "Application.Remove_Retain_All.executor": "Run",
     "Application.Sleep_Method.executor": "Run",
     "Application.Smart_Phone.executor": "Run",
     "Application.Square.executor": "Run",
@@ -87,6 +97,8 @@
     "Application.practice_5.executor": "Run",
     "Application.practice_6.executor": "Run",
     "Application.practice_7.executor": "Run",
+    "Application.stack.executor": "Run",
+    "Application.stack_queue.executor": "Run",
     "Application.throw_throws.executor": "Run",
     "Application.try_catch.executor": "Run",
     "Application.try_catch_finally.executor": "Run",
@@ -103,13 +115,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bounded_Generic">
-    <configuration name="Bounded_Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Generic.Bounded_Generic" />
+  <component name="RunManager" selected="Application.stack_queue">
+    <configuration name="Array_Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.Array_Deque" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Generic.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Date_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Date_Time.Date_Time" />
+    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Lists.ArrayList.Array_List" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Date_Time.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Lists.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generic_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Generic.Generic_Method" />
+    <configuration name="QUEUE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.QUEUE" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Generic.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Hash_Set.Hash_set" />
+    <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Stack.stack" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Hash_Set.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="value_Of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Wrapper_Class.value_Of" />
+    <configuration name="stack_queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.Stack_Queue.stack_queue" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Wrapper_Class.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.Stack_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +182,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Bounded_Generic" />
-      <item itemvalue="Application.Generic_Method" />
-      <item itemvalue="Application.value_Of" />
-      <item itemvalue="Application.Date_Time" />
-      <item itemvalue="Application.Hash_set" />
+      <item itemvalue="Application.Array_Deque" />
+      <item itemvalue="Application.Array_List" />
+      <item itemvalue="Application.QUEUE" />
+      <item itemvalue="Application.stack" />
+      <item itemvalue="Application.stack_queue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bounded_Generic" />
-        <item itemvalue="Application.Generic_Method" />
-        <item itemvalue="Application.value_Of" />
-        <item itemvalue="Application.Date_Time" />
-        <item itemvalue="Application.Hash_set" />
+        <item itemvalue="Application.stack_queue" />
+        <item itemvalue="Application.stack" />
+        <item itemvalue="Application.Array_Deque" />
+        <item itemvalue="Application.QUEUE" />
+        <item itemvalue="Application.Array_List" />
       </list>
     </recent_temporary>
   </component>
