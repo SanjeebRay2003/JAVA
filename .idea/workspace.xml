@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Enum_Set/enum_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Linked_Hash_Set/linked_hash_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Tree_Set/tree_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Enums/Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/Hash_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/Hash_set.java" afterDir="false" />
-    </list>
+    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
