@@ -9,6 +9,7 @@ public class stack_queue {
         queue.offer(10);
         queue.offer(20);
         queue.offer(30);
+//        queue.offerFirst(50);
         queue.push(40);
         System.out.println(queue);
         System.out.println(queue.peek());

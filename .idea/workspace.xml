@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Remove_Retain_All.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/QUEUE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Stack/stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Enum_Set/enum_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Linked_Hash_Set/linked_hash_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Tree_Set/tree_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Enums/Enum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Deque/Array_Deque/Array_Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Array_Deque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Array_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Lists/ArrayList/Array_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/Hash_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/Hash_set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Application.Date_Time.executor": "Run",
     "Application.Do_DoWhile_oops.executor": "Run",
     "Application.Dynamic_dispatch.executor": "Run",
+    "Application.Enum.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.Example2.executor": "Run",
     "Application.Generic.executor": "Run",
@@ -82,8 +83,10 @@
     "Application.Using_Extends_Thread.executor": "Run",
     "Application.Using_Runnable_interface.executor": "Run",
     "Application.default_interface.executor": "Run",
+    "Application.enum_set.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.inheritance.executor": "Run",
+    "Application.linked_hash_set.executor": "Run",
     "Application.linked_list.executor": "Run",
     "Application.method_3.executor": "Run",
     "Application.methods.executor": "Run",
@@ -100,6 +103,7 @@
     "Application.stack.executor": "Run",
     "Application.stack_queue.executor": "Run",
     "Application.throw_throws.executor": "Run",
+    "Application.tree_set.executor": "Run",
     "Application.try_catch.executor": "Run",
     "Application.try_catch_finally.executor": "Run",
     "Application.value_Of.executor": "Run",
@@ -116,12 +120,12 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.stack_queue">
-    <configuration name="Array_Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.Array_Deque" />
+    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs.Enums.Enum" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.*" />
+          <option name="PATTERN" value="OOPs.Enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Lists.ArrayList.Array_List" />
+    <configuration name="enum_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Enum_Set.enum_set" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Lists.ArrayList.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Enum_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,25 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QUEUE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.QUEUE" />
+    <configuration name="linked_hash_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Linked_Hash_Set.linked_hash_set" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Stack.stack" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Stack.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Linked_Hash_Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,20 +172,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tree_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Tree_Set.tree_set" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Tree_Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Array_Deque" />
-      <item itemvalue="Application.Array_List" />
-      <item itemvalue="Application.QUEUE" />
-      <item itemvalue="Application.stack" />
+      <item itemvalue="Application.enum_set" />
       <item itemvalue="Application.stack_queue" />
+      <item itemvalue="Application.Enum" />
+      <item itemvalue="Application.linked_hash_set" />
+      <item itemvalue="Application.tree_set" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.stack_queue" />
-        <item itemvalue="Application.stack" />
-        <item itemvalue="Application.Array_Deque" />
-        <item itemvalue="Application.QUEUE" />
-        <item itemvalue="Application.Array_List" />
+        <item itemvalue="Application.linked_hash_set" />
+        <item itemvalue="Application.enum_set" />
+        <item itemvalue="Application.Enum" />
+        <item itemvalue="Application.tree_set" />
       </list>
     </recent_temporary>
   </component>
