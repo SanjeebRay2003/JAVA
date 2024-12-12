@@ -1,4 +1,4 @@
-package Advance_Java.Collection_Framework.Queue.Stack_Queue;
+package Advance_Java.Collection_Framework.Queue.Stack_and_Queue;
 
 import java.util.ArrayDeque;
 

@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Sets/Hash_Set/hashCode_equals_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/KeySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/hash_Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Polymorphism/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_Queue/stack_queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Queue/Stack_and_Queue/stack_queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Stack/stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Stack/stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,7 @@
     "Application.Hash_set.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Interface.executor": "Run",
+    "Application.KeySet.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Multithreading.executor": "Run",
     "Application.Nested_try_catch.executor": "Run",
@@ -82,6 +85,7 @@
     "Application.enum_set.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.hashCode_equals_Methods.executor": "Run",
+    "Application.hash_Map.executor": "Run",
     "Application.inheritance.executor": "Run",
     "Application.linked_hash_set.executor": "Run",
     "Application.linked_list.executor": "Run",
@@ -116,13 +120,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hashCode_equals_Methods">
-    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Enums.Enum" />
+  <component name="RunManager" selected="Application.KeySet">
+    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Lists.ArrayList.Array_List" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs.Enums.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Lists.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="enum_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Enum_Set.enum_set" />
+    <configuration name="KeySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Map.Hash_Map.KeySet" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Enum_Set.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Map.Hash_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linked_hash_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Sets.Linked_Hash_Set.linked_hash_set" />
+    <configuration name="hash_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Map.Hash_Map.hash_Map" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Sets.Linked_Hash_Set.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Map.Hash_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +174,11 @@
       </method>
     </configuration>
     <configuration name="stack_queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.Stack_Queue.stack_queue" />
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Queue.Stack_and_Queue.stack_queue" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.Stack_Queue.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Queue.Stack_and_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +187,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Array_List" />
+      <item itemvalue="Application.KeySet" />
       <item itemvalue="Application.hashCode_equals_Methods" />
-      <item itemvalue="Application.enum_set" />
+      <item itemvalue="Application.hash_Map" />
       <item itemvalue="Application.stack_queue" />
-      <item itemvalue="Application.Enum" />
-      <item itemvalue="Application.linked_hash_set" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeySet" />
+        <item itemvalue="Application.hash_Map" />
+        <item itemvalue="Application.Array_List" />
         <item itemvalue="Application.hashCode_equals_Methods" />
         <item itemvalue="Application.stack_queue" />
-        <item itemvalue="Application.linked_hash_set" />
-        <item itemvalue="Application.enum_set" />
-        <item itemvalue="Application.Enum" />
       </list>
     </recent_temporary>
   </component>

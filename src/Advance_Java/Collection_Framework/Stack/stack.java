@@ -25,5 +25,5 @@ public class stack {
 }
 
 /* when we push something it add in stack form
-    when we pop the last element of stack was deleted
+    when we pop , the last element of stack was deleted
  */
