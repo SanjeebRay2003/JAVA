@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPs.Polymorphism;
 interface Camera{
     void takePicture();
     void recordVideo();
