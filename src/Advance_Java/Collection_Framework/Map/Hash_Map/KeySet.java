@@ -36,4 +36,6 @@ public class KeySet {
 
 /* Keys can be Set or Collection both because Set have only unique value and collection have both unique or not unique
     but values can not be a Set because Set are unique but values can be or not be unique value
+
+    we also get the values in the form of List, Collection by only replacing keySet() -> values()
  */
