@@ -14,7 +14,7 @@ public class EntrySet {
 
 //        System.out.println(map);
 
-        Set<Map.Entry<String,String>> entry = map.entrySet(); // It store the data in the form of entries in a set
+        Set<Map.Entry<String,String>> entry = map.entrySet(); // It stores the data in the form of entries in a set
         for (Map.Entry<String,String> entries:entry){
             System.out.println(entries.getKey()+ ",  "+entries.getValue());
         }

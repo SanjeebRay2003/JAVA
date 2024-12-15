@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="" />
+    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Comparator_Comparable/Comparable/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Comparator_Comparable/Comparable/comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Comparator_Comparable/Comparator/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Comparator_Comparable/Comparator/Sort_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Comparator_Comparable/Comparator/comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/EntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/EntrySet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,98 +39,103 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Advance_Java.Collection_Framework.Lists.Linked_List.linked_list.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Deque.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_List.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bounded_Generic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Custom_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Customized_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cylinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Date_Time.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Do_DoWhile_oops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dynamic_dispatch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EntrySet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generic_Method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hash_set.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeySet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested_try_catch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.Practice_Abstranction_Interface.practice_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPs.methods.Practice.practice_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overriding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QUEUE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_Retain_All.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sleep_Method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Smart_Phone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Square.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Super.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread_Constructors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread_Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread_Priority.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Using_Extends_Thread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Using_Runnable_interface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarArgs_Method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.default_interface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.enum_set.executor&quot;: &quot;Run&quot;,
-    &quot;Application.for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hashCode_equals_Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hash_Map.executor&quot;: &quot;Run&quot;,
-    &quot;Application.inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linked_hash_set.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linked_list.executor&quot;: &quot;Run&quot;,
-    &quot;Application.method_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.methods_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stack_queue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.throw_throws.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tree_set.executor&quot;: &quot;Run&quot;,
-    &quot;Application.try_catch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.try_catch_finally.executor&quot;: &quot;Run&quot;,
-    &quot;Application.value_Of.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/IdeaProjects/JAVA-Basics/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.Advance_Java.Collection_Framework.Lists.Linked_List.linked_list.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.Array_2D.executor": "Run",
+    "Application.Array_Deque.executor": "Run",
+    "Application.Array_List.executor": "Run",
+    "Application.Bounded_Generic.executor": "Run",
+    "Application.Comparator_Comparable.executor": "Run",
+    "Application.Custom_Class.executor": "Run",
+    "Application.Customized_Exception.executor": "Run",
+    "Application.Cylinder.executor": "Run",
+    "Application.Date_Time.executor": "Run",
+    "Application.Do_DoWhile_oops.executor": "Run",
+    "Application.Dynamic_dispatch.executor": "Run",
+    "Application.EntrySet.executor": "Run",
+    "Application.Enum.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Generic.executor": "Run",
+    "Application.Generic_Method.executor": "Run",
+    "Application.Hash_set.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Interface.executor": "Run",
+    "Application.KeySet.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Multithreading.executor": "Run",
+    "Application.Nested_try_catch.executor": "Run",
+    "Application.OOPs.Practice_Abstranction_Interface.practice_1.executor": "Run",
+    "Application.OOPs.methods.Practice.practice_2.executor": "Run",
+    "Application.Overloading.executor": "Run",
+    "Application.Overriding.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.QUEUE.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.Remove_Retain_All.executor": "Run",
+    "Application.Sleep_Method.executor": "Run",
+    "Application.Smart_Phone.executor": "Run",
+    "Application.Sort_2D_Array.executor": "Run",
+    "Application.Square.executor": "Run",
+    "Application.Super.executor": "Run",
+    "Application.Thread_Constructors.executor": "Run",
+    "Application.Thread_Methods.executor": "Run",
+    "Application.Thread_Priority.executor": "Run",
+    "Application.Using_Extends_Thread.executor": "Run",
+    "Application.Using_Runnable_interface.executor": "Run",
+    "Application.VarArgs_Method.executor": "Run",
+    "Application.comparable.executor": "Run",
+    "Application.comparator.executor": "Run",
+    "Application.default_interface.executor": "Run",
+    "Application.enum_set.executor": "Run",
+    "Application.for_loop.executor": "Run",
+    "Application.hashCode_equals_Methods.executor": "Run",
+    "Application.hash_Map.executor": "Run",
+    "Application.inheritance.executor": "Run",
+    "Application.linked_hash_set.executor": "Run",
+    "Application.linked_list.executor": "Run",
+    "Application.method_3.executor": "Run",
+    "Application.methods.executor": "Run",
+    "Application.methods_Array.executor": "Run",
+    "Application.pattern_1.executor": "Run",
+    "Application.practice_1 (1).executor": "Run",
+    "Application.practice_1.executor": "Run",
+    "Application.practice_2.executor": "Run",
+    "Application.practice_3.executor": "Run",
+    "Application.practice_4.executor": "Run",
+    "Application.practice_5.executor": "Run",
+    "Application.practice_6.executor": "Run",
+    "Application.practice_7.executor": "Run",
+    "Application.stack.executor": "Run",
+    "Application.stack_queue.executor": "Run",
+    "Application.throw_throws.executor": "Run",
+    "Application.tree_set.executor": "Run",
+    "Application.try_catch.executor": "Run",
+    "Application.try_catch_finally.executor": "Run",
+    "Application.value_Of.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/JAVA-Basics/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.EntrySet">
-    <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Lists.ArrayList.Array_List" />
+}]]></component>
+  <component name="RunManager" selected="Application.comparator">
+    <configuration name="Comparator_Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.Comparator_Comparable" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Lists.ArrayList.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Map.Hash_Map.KeySet" />
+    <configuration name="Sort_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.Sort_2D_Array" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Map.Hash_Map.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgs_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.VarArgs_Method" />
+    <configuration name="comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.comparable" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hash_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Map.Hash_Map.hash_Map" />
+    <configuration name="comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.comparator" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Map.Hash_Map.*" />
+          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +196,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Comparator_Comparable" />
+      <item itemvalue="Application.Sort_2D_Array" />
+      <item itemvalue="Application.comparable" />
+      <item itemvalue="Application.comparator" />
       <item itemvalue="Application.EntrySet" />
-      <item itemvalue="Application.VarArgs_Method" />
-      <item itemvalue="Application.Array_List" />
-      <item itemvalue="Application.KeySet" />
-      <item itemvalue="Application.hash_Map" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.comparator" />
+        <item itemvalue="Application.Sort_2D_Array" />
+        <item itemvalue="Application.comparable" />
+        <item itemvalue="Application.Comparator_Comparable" />
         <item itemvalue="Application.EntrySet" />
-        <item itemvalue="Application.VarArgs_Method" />
-        <item itemvalue="Application.KeySet" />
-        <item itemvalue="Application.hash_Map" />
-        <item itemvalue="Application.Array_List" />
       </list>
     </recent_temporary>
   </component>
