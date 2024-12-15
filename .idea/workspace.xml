@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/EntrySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/VarArgs_Method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/KeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/KeySet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
     "Application.Date_Time.executor": "Run",
     "Application.Do_DoWhile_oops.executor": "Run",
     "Application.Dynamic_dispatch.executor": "Run",
-    "Application.EntrySet.executor": "Debug",
+    "Application.EntrySet.executor": "Run",
     "Application.Enum.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.Example2.executor": "Run",
@@ -247,20 +244,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Advance_Java/Collection_Framework/Map/Hash_Map/EntrySet.java</url>
-          <line>7</line>
-          <properties class="Advance_Java.Collection_Framework.Map.Hash_Map.EntrySet" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
