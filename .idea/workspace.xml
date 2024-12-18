@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Type_Casting/Explicit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Type_Casting/Implicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/This_Keyword/This_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/This_Keyword/This_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/This_Keyword/This_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
     "Application.Enum.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.Example2.executor": "Run",
+    "Application.Explicit.executor": "Run",
     "Application.Generic.executor": "Run",
     "Application.Generic_Method.executor": "Run",
     "Application.Hash_set.executor": "Run",
@@ -78,6 +80,9 @@
     "Application.Sort_2D_Array.executor": "Run",
     "Application.Square.executor": "Run",
     "Application.Super.executor": "Run",
+    "Application.This_1.executor": "Run",
+    "Application.This_2.executor": "Run",
+    "Application.This_3.executor": "Run",
     "Application.Thread_Constructors.executor": "Run",
     "Application.Thread_Methods.executor": "Run",
     "Application.Thread_Priority.executor": "Run",
@@ -127,7 +132,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Explicit">
+  <component name="RunManager" selected="Application.This_3">
     <configuration name="Explicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Type_Casting.Explicit" />
       <module name="JAVA-Basics" />
@@ -154,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.Sort_2D_Array" />
+    <configuration name="This_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="This_Keyword.This_1" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.*" />
+          <option name="PATTERN" value="This_Keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.comparator" />
+    <configuration name="This_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="This_Keyword.This_2" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.*" />
+          <option name="PATTERN" value="This_Keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.patterns" />
+    <configuration name="This_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="This_Keyword.This_3" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="This_Keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,17 +201,17 @@
     <list>
       <item itemvalue="Application.Explicit" />
       <item itemvalue="Application.Implicit" />
-      <item itemvalue="Application.patterns" />
-      <item itemvalue="Application.Sort_2D_Array" />
-      <item itemvalue="Application.comparator" />
+      <item itemvalue="Application.This_1" />
+      <item itemvalue="Application.This_2" />
+      <item itemvalue="Application.This_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.This_3" />
+        <item itemvalue="Application.This_2" />
+        <item itemvalue="Application.This_1" />
         <item itemvalue="Application.Explicit" />
         <item itemvalue="Application.Implicit" />
-        <item itemvalue="Application.patterns" />
-        <item itemvalue="Application.comparator" />
-        <item itemvalue="Application.Sort_2D_Array" />
       </list>
     </recent_temporary>
   </component>
