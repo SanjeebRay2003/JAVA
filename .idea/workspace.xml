@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Type_Casting/Explicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Type_Casting/Implicit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/pattern_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patterns/patterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "Application.Generic_Method.executor": "Run",
     "Application.Hash_set.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.Implicit.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.KeySet.executor": "Run",
     "Application.Main.executor": "Run",
@@ -125,13 +127,26 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.patterns">
-    <configuration name="Comparator_Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.Comparator_Comparable" />
+  <component name="RunManager" selected="Application.Explicit">
+    <configuration name="Explicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Type_Casting.Explicit" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.*" />
+          <option name="PATTERN" value="Type_Casting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Implicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Type_Casting.Implicit" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Type_Casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +160,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.comparable" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_Java.Collection_Framework.Comparator_Comparable.Comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,19 +194,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Explicit" />
+      <item itemvalue="Application.Implicit" />
       <item itemvalue="Application.patterns" />
-      <item itemvalue="Application.Comparator_Comparable" />
       <item itemvalue="Application.Sort_2D_Array" />
-      <item itemvalue="Application.comparable" />
       <item itemvalue="Application.comparator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Explicit" />
+        <item itemvalue="Application.Implicit" />
         <item itemvalue="Application.patterns" />
         <item itemvalue="Application.comparator" />
         <item itemvalue="Application.Sort_2D_Array" />
-        <item itemvalue="Application.comparable" />
-        <item itemvalue="Application.Comparator_Comparable" />
       </list>
     </recent_temporary>
   </component>
