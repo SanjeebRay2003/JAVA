@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Date_Time/Date_Time_Formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda_Expressions/lambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Date_Time/Date_Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Date_Time/Date_Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Streams/Stream.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +82,7 @@
     "Application.Smart_Phone.executor": "Run",
     "Application.Sort_2D_Array.executor": "Run",
     "Application.Square.executor": "Run",
+    "Application.Streams.executor": "Run",
     "Application.Super.executor": "Run",
     "Application.This_1.executor": "Run",
     "Application.This_2.executor": "Run",
@@ -99,6 +101,7 @@
     "Application.hashCode_equals_Methods.executor": "Run",
     "Application.hash_Map.executor": "Run",
     "Application.inheritance.executor": "Run",
+    "Application.lambda.executor": "Run",
     "Application.linked_hash_set.executor": "Run",
     "Application.linked_list.executor": "Run",
     "Application.method_3.executor": "Run",
@@ -135,7 +138,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Date_Time_Formatter">
+  <component name="RunManager" selected="Application.Streams">
     <configuration name="Date_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance_Java.Date_Time.Date_Time" />
       <module name="JAVA-Basics" />
@@ -162,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="This_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="This_Keyword.This_3" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.Streams" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="This_Keyword.*" />
+          <option name="PATTERN" value="Advance_Java.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prcactice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.prcactice" />
+    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda_Expressions.lambda" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Streams.*" />
+          <option name="PATTERN" value="Lambda_Expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,17 +207,17 @@
     <list>
       <item itemvalue="Application.Date_Time" />
       <item itemvalue="Application.Date_Time_Formatter" />
+      <item itemvalue="Application.Streams" />
+      <item itemvalue="Application.lambda" />
       <item itemvalue="Application.Using_Runnable_interface" />
-      <item itemvalue="Application.prcactice" />
-      <item itemvalue="Application.This_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.lambda" />
         <item itemvalue="Application.Date_Time_Formatter" />
         <item itemvalue="Application.Date_Time" />
         <item itemvalue="Application.Using_Runnable_interface" />
-        <item itemvalue="Application.prcactice" />
-        <item itemvalue="Application.This_3" />
       </list>
     </recent_temporary>
   </component>
