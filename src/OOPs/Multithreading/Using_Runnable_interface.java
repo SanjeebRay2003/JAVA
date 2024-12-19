@@ -29,9 +29,9 @@ public class Using_Runnable_interface {
         multithread2 obj2 = new multithread2();
         Thread OBJ2 = new Thread(obj2);  // creating new thread object associate with obj2 which call obj2.run();
 
-      
-//        OBJ1.start();
-//        OBJ2.start();
+      OBJ1.setPriority(Thread.MAX_PRIORITY);
+        OBJ1.start();
+        OBJ2.start();
 
     }
 }
