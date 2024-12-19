@@ -23,14 +23,14 @@ public class Streams {
         System.out.println(s);
 
         // Creating Stream Directly
-//        Stream<Integer> abc = Stream.of(1,2,3,4,5,85,45);
-        List<Integer> abc = Stream.of(1,2,3,4,5,85,45).collect(Collectors.toList());
-        System.out.println(abc);
+        Stream<Integer> abc = Stream.of(1,2,3,4,5,85,45);
+        List<Integer> a =abc.collect(Collectors.toList());
+        System.out.println(a);
 
         // Creating Stream Directly
-//        Stream<Integer> xyz = Stream.iterate(0,n->n+1).limit(10);
-        List<Integer> xyz = Stream.iterate(0,n->n+1).limit(10).collect(Collectors.toList());
-        System.out.println(xyz);
+        Stream<Integer> xyz = Stream.iterate(0,n->n+1).limit(10);
+        List<Integer> x = xyz.collect(Collectors.toList());
+        System.out.println(x);
 
 
     }
