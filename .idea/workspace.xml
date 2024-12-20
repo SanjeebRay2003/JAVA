@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +133,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Streams">
+  <component name="RunManager" selected="Application.Race">
     <configuration name="Date_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance_Java.Date_Time.Date_Time" />
       <module name="JAVA-Basics" />
@@ -162,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.Streams" />
+    <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda_Expressions.Race" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Streams.*" />
+          <option name="PATTERN" value="Lambda_Expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Using_Runnable_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs.Multithreading.Using_Runnable_interface" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.Streams" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs.Multithreading.*" />
+          <option name="PATTERN" value="Advance_Java.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,19 +200,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Race" />
       <item itemvalue="Application.Date_Time" />
       <item itemvalue="Application.Date_Time_Formatter" />
       <item itemvalue="Application.Streams" />
       <item itemvalue="Application.lambda" />
-      <item itemvalue="Application.Using_Runnable_interface" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Race" />
         <item itemvalue="Application.Streams" />
         <item itemvalue="Application.lambda" />
         <item itemvalue="Application.Date_Time_Formatter" />
         <item itemvalue="Application.Date_Time" />
-        <item itemvalue="Application.Using_Runnable_interface" />
       </list>
     </recent_temporary>
   </component>
