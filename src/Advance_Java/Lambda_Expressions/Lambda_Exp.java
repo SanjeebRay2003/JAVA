@@ -14,7 +14,7 @@ interface name{
     int str(String name);
 }
 
-public class Exp {
+public class Lambda_Exp {
 
     public static void main(String[] args) {
 

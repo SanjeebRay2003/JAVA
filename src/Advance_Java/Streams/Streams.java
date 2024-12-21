@@ -8,17 +8,17 @@ public class Streams {
     public static void main(String[] args) {
 
         // Converting an Array List into Stream
-        List<String> list = Arrays.asList("Dog","Cat","Elephant","horse"); // it is like existing List
+        List<String> list = Arrays.asList("Dog","Cat","Elephant","horse"); // List
         List<String> stream = list.stream().sorted().collect(Collectors.toList());
         System.out.println(stream);
 
         // Converting an array into stream
-        String[] animals = {"Dog","Cat","Elephant","horse"};
+        String[] animals = {"Dog","Cat","Elephant","horse"}; // array
         List<String> Animal = Arrays.stream(animals).collect(Collectors.toList());
         System.out.println(Animal);
 
         // converting a List into a Stream
-        List<Integer> l = Arrays.asList(45, 50, 100);
+        List<Integer> l = Arrays.asList(45, 50, 100); // list
         List<Integer> s = l.stream().map(x -> x*2).sorted().collect(Collectors.toList());
         System.out.println(s);
 
