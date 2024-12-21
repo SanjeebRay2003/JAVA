@@ -1,4 +1,4 @@
-package Lambda_Expressions;
+package Advance_Java.Lambda_Expressions;
 
 interface racing{
     int race(int speed ,boolean wins);

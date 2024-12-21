@@ -1,4 +1,4 @@
-package Lambda_Expressions;
+package Advance_Java.Lambda_Expressions;
 
 //@FunctionalInterface // functional interface are those interface in which only one method is present
 interface demo{
