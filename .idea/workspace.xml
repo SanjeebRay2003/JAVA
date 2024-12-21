@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Exp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Tread_with_Lambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda_Expressions/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda_Expressions/lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Exp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +92,7 @@
     "Application.Thread_Constructors.executor": "Run",
     "Application.Thread_Methods.executor": "Run",
     "Application.Thread_Priority.executor": "Run",
+    "Application.Tread_with_Lambda.executor": "Run",
     "Application.Using_Extends_Thread.executor": "Run",
     "Application.Using_Runnable_interface.executor": "Run",
     "Application.VarArgs_Method.executor": "Run",
@@ -142,7 +142,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exp">
+  <component name="RunManager" selected="Application.Tread_with_Lambda">
     <configuration name="Advance_Java.Lambda_Expressions.lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.lambda" />
       <module name="JAVA-Basics" />
@@ -195,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.lambda" />
+    <configuration name="Tread_with_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.Tread_with_Lambda" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
@@ -210,18 +210,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Exp" />
+      <item itemvalue="Application.Tread_with_Lambda" />
       <item itemvalue="Application.Race" />
       <item itemvalue="Application.Advance_Java.Lambda_Expressions.lambda" />
       <item itemvalue="Application.Streams" />
-      <item itemvalue="Application.lambda" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tread_with_Lambda" />
         <item itemvalue="Application.Exp" />
         <item itemvalue="Application.Advance_Java.Lambda_Expressions.lambda" />
         <item itemvalue="Application.Race" />
         <item itemvalue="Application.Streams" />
-        <item itemvalue="Application.lambda" />
       </list>
     </recent_temporary>
   </component>
