@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/Stream_Exp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/important_methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Lambda_Expressions/Lambda_Exp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Streams/Stream_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/Stream_Exp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +104,7 @@
     "Application.for_loop.executor": "Run",
     "Application.hashCode_equals_Methods.executor": "Run",
     "Application.hash_Map.executor": "Run",
+    "Application.important_methods.executor": "Run",
     "Application.inheritance.executor": "Run",
     "Application.lambda (1).executor": "Run",
     "Application.lambda.executor": "Run",
@@ -144,7 +144,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Stream_Exp">
+  <component name="RunManager" selected="Application.important_methods">
     <configuration name="Lambda_Exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.Lambda_Exp" />
       <module name="JAVA-Basics" />
@@ -197,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.lambda" />
+    <configuration name="important_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.important_methods" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Lambda_Expressions.*" />
+          <option name="PATTERN" value="Advance_Java.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,18 +211,18 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.important_methods" />
       <item itemvalue="Application.Lambda_Exp" />
+      <item itemvalue="Application.Race" />
       <item itemvalue="Application.Stream_Exp" />
       <item itemvalue="Application.Tread_with_Lambda" />
-      <item itemvalue="Application.Race" />
-      <item itemvalue="Application.Advance_Java.Lambda_Expressions.lambda" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.important_methods" />
         <item itemvalue="Application.Stream_Exp" />
         <item itemvalue="Application.Tread_with_Lambda" />
         <item itemvalue="Application.Lambda_Exp" />
-        <item itemvalue="Application.Advance_Java.Lambda_Expressions.lambda" />
         <item itemvalue="Application.Race" />
       </list>
     </recent_temporary>

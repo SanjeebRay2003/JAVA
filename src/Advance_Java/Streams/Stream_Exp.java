@@ -33,20 +33,11 @@ public class Stream_Exp {
         List<Integer> streamEvenList = list.stream().filter(x -> x % 2 == 0).collect(Collectors.toList());
         System.out.println("list of Even elements with stream : " + streamEvenList);
 
-        //forEach
-//        streamEvenList.forEach(e -> // forEach is loop in stream
-//                System.out.println(e/2)
-//        );
+
 
 
 //        streamEvenList.add(450);
 //        System.out.println(streamEvenList);
-
-        // map
-//        List<Integer> streamEvenList2 = list.stream().map(x -> x*2).collect(Collectors.toList());
-//        System.out.println(streamEvenList2);
-
-
 
 
 
