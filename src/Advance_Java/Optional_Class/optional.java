@@ -5,8 +5,8 @@ import java.util.Optional;
 
 public class optional {
 
-    public static Optional<Integer> hello(){ // optional method
-        Integer a =null;
+    public static Optional<Integer> hello(){
+        Integer a = null;
         return Optional.ofNullable(a);
     }
 

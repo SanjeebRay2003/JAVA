@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Advance_Java/Optional_Class/optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Optional_Class/optional.java" afterDir="false" />
     </list>
@@ -52,6 +54,7 @@
     "Application.Date.executor": "Run",
     "Application.Date_Time.executor": "Run",
     "Application.Date_Time_Formatter.executor": "Run",
+    "Application.Details.executor": "Run",
     "Application.Do_DoWhile_oops.executor": "Run",
     "Application.Dynamic_dispatch.executor": "Run",
     "Application.EntrySet.executor": "Run",
@@ -144,7 +147,20 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.optional">
+  <component name="RunManager" selected="Application.Details">
+    <configuration name="Details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Builder_Pattern.Example_1.Details" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advance_Java.Builder_Pattern.Example_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.Example" />
       <module name="JAVA-Basics" />
@@ -164,19 +180,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Advance_Java.Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tread_with_Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.Tread_with_Lambda" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_Java.Lambda_Expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +214,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Details" />
       <item itemvalue="Application.Example" />
       <item itemvalue="Application.optional" />
       <item itemvalue="Application.important_methods" />
       <item itemvalue="Application.Stream_Exp" />
-      <item itemvalue="Application.Tread_with_Lambda" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Details" />
         <item itemvalue="Application.optional" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.important_methods" />
         <item itemvalue="Application.Stream_Exp" />
-        <item itemvalue="Application.Tread_with_Lambda" />
       </list>
     </recent_temporary>
   </component>
