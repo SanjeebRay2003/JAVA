@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/important_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Optional_Class/optional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Streams/Stream_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/Stream_Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Streams/important_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Streams/important_methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,134 +37,121 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Abstraction.executor": "Run",
-    "Application.Advance_Java.Collection_Framework.Lists.Linked_List.linked_list.executor": "Run",
-    "Application.Advance_Java.Lambda_Expressions.lambda.executor": "Run",
-    "Application.Array.executor": "Run",
-    "Application.Array_2D.executor": "Run",
-    "Application.Array_Deque.executor": "Run",
-    "Application.Array_List.executor": "Run",
-    "Application.Bounded_Generic.executor": "Run",
-    "Application.Comparator_Comparable.executor": "Run",
-    "Application.Custom_Class.executor": "Run",
-    "Application.Customized_Exception.executor": "Run",
-    "Application.Cylinder.executor": "Run",
-    "Application.Date.executor": "Run",
-    "Application.Date_Time.executor": "Run",
-    "Application.Date_Time_Formatter.executor": "Run",
-    "Application.Do_DoWhile_oops.executor": "Run",
-    "Application.Dynamic_dispatch.executor": "Run",
-    "Application.EntrySet.executor": "Run",
-    "Application.Enum.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Exp.executor": "Run",
-    "Application.Explicit.executor": "Run",
-    "Application.Generic.executor": "Run",
-    "Application.Generic_Method.executor": "Run",
-    "Application.Hash_set.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Implicit.executor": "Run",
-    "Application.Interface.executor": "Run",
-    "Application.KeySet.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Multithreading.executor": "Run",
-    "Application.Nested_try_catch.executor": "Run",
-    "Application.OOPs.Practice_Abstranction_Interface.practice_1.executor": "Run",
-    "Application.OOPs.methods.Practice.practice_2.executor": "Run",
-    "Application.Overloading.executor": "Run",
-    "Application.Overriding.executor": "Run",
-    "Application.Polymorphism.executor": "Run",
-    "Application.QUEUE.executor": "Run",
-    "Application.Race.executor": "Run",
-    "Application.Recursion.executor": "Run",
-    "Application.Remove_Retain_All.executor": "Run",
-    "Application.Sleep_Method.executor": "Run",
-    "Application.Smart_Phone.executor": "Run",
-    "Application.Sort_2D_Array.executor": "Run",
-    "Application.Square.executor": "Run",
-    "Application.Stream_Exp.executor": "Run",
-    "Application.Streams.executor": "Run",
-    "Application.Super.executor": "Run",
-    "Application.This_1.executor": "Run",
-    "Application.This_2.executor": "Run",
-    "Application.This_3.executor": "Run",
-    "Application.Thread_Constructors.executor": "Run",
-    "Application.Thread_Methods.executor": "Run",
-    "Application.Thread_Priority.executor": "Run",
-    "Application.Tread_with_Lambda.executor": "Run",
-    "Application.Using_Extends_Thread.executor": "Run",
-    "Application.Using_Runnable_interface.executor": "Run",
-    "Application.VarArgs_Method.executor": "Run",
-    "Application.comparable.executor": "Run",
-    "Application.comparator.executor": "Run",
-    "Application.default_interface.executor": "Run",
-    "Application.enum_set.executor": "Run",
-    "Application.for_loop.executor": "Run",
-    "Application.hashCode_equals_Methods.executor": "Run",
-    "Application.hash_Map.executor": "Run",
-    "Application.important_methods.executor": "Run",
-    "Application.inheritance.executor": "Run",
-    "Application.lambda (1).executor": "Run",
-    "Application.lambda.executor": "Run",
-    "Application.linked_hash_set.executor": "Run",
-    "Application.linked_list.executor": "Run",
-    "Application.method_3.executor": "Run",
-    "Application.methods.executor": "Run",
-    "Application.methods_Array.executor": "Run",
-    "Application.pattern_1.executor": "Run",
-    "Application.patterns.executor": "Run",
-    "Application.practice_1 (1).executor": "Run",
-    "Application.practice_1.executor": "Run",
-    "Application.practice_2.executor": "Run",
-    "Application.practice_3.executor": "Run",
-    "Application.practice_4.executor": "Run",
-    "Application.practice_5.executor": "Run",
-    "Application.practice_6.executor": "Run",
-    "Application.practice_7.executor": "Run",
-    "Application.prcactice.executor": "Run",
-    "Application.stack.executor": "Run",
-    "Application.stack_queue.executor": "Run",
-    "Application.throw_throws.executor": "Run",
-    "Application.tree_set.executor": "Run",
-    "Application.try_catch.executor": "Run",
-    "Application.try_catch_finally.executor": "Run",
-    "Application.value_Of.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/JAVA-Basics/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Advance_Java.Collection_Framework.Lists.Linked_List.linked_list.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Advance_Java.Lambda_Expressions.lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Deque.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bounded_Generic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparator_Comparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Custom_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Customized_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cylinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Date.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Date_Time.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Date_Time_Formatter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Do_DoWhile_oops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dynamic_dispatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EntrySet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Explicit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generic_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash_set.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Implicit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeySet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nested_try_catch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPs.Practice_Abstranction_Interface.practice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPs.methods.Practice.practice_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QUEUE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Race.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove_Retain_All.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sleep_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smart_Phone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort_2D_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Square.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream_Exp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Super.executor&quot;: &quot;Run&quot;,
+    &quot;Application.This_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.This_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.This_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Constructors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Priority.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tread_with_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Using_Extends_Thread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Using_Runnable_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarArgs_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.comparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.comparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.default_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.enum_set.executor&quot;: &quot;Run&quot;,
+    &quot;Application.for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hashCode_equals_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hash_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.important_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lambda (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linked_hash_set.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linked_list.executor&quot;: &quot;Run&quot;,
+    &quot;Application.method_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prcactice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stack_queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.throw_throws.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tree_set.executor&quot;: &quot;Run&quot;,
+    &quot;Application.try_catch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.try_catch_finally.executor&quot;: &quot;Run&quot;,
+    &quot;Application.value_Of.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/IdeaProjects/JAVA-Basics/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.important_methods">
-    <configuration name="Lambda_Exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.Lambda_Exp" />
+}</component>
+  <component name="RunManager" selected="Application.optional">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.Example" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Lambda_Expressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Lambda_Expressions.Race" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_Java.Lambda_Expressions.*" />
+          <option name="PATTERN" value="Advance_Java.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,20 +198,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Optional_Class.optional" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advance_Java.Optional_Class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.optional" />
       <item itemvalue="Application.important_methods" />
-      <item itemvalue="Application.Lambda_Exp" />
-      <item itemvalue="Application.Race" />
       <item itemvalue="Application.Stream_Exp" />
       <item itemvalue="Application.Tread_with_Lambda" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.optional" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.important_methods" />
         <item itemvalue="Application.Stream_Exp" />
         <item itemvalue="Application.Tread_with_Lambda" />
-        <item itemvalue="Application.Lambda_Exp" />
-        <item itemvalue="Application.Race" />
       </list>
     </recent_temporary>
   </component>
