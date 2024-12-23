@@ -70,7 +70,7 @@ public class User {
             return this;
         }
 
-        public User build(){
+        public User build(){ // it returns a user
         User user = new User(this);
         return user;
         }

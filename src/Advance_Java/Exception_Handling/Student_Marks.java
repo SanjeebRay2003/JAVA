@@ -14,26 +14,26 @@ public class Student_Marks {
             Scanner input = new Scanner(System.in);
             System.out.print("Enter the Number of Subjects : ");
             int n = input.nextInt();
-            int[] marks = new int[n];
+            int[] Marks = new int[n];
             int total = 0;
 
             try {
                 for (int i = 0; i <n; i++) {
-                    System.out.print("Enter marks for subject " + (i+1) + ": ");
-                    marks[i] = input.nextInt();
+                    System.out.print("Enter Marks for subject " + (i+1) + ": ");
+                    Marks[i] = input.nextInt();
 
 
-                    if (marks[i] < 0 || marks[i] > 100) {
+                    if (Marks[i] < 0 || Marks[i] > 100) {
                         throw new RangeException("Marks for subject " + (i+1) + " must be between 0 and 100.");
                     }
 
-                    total += marks[i];
+                    total += Marks[i];
                 }
 
-                System.out.println("Total marks : "+total);
+                System.out.println("Total Marks : "+total);
 
                 double average = total / n;
-                System.out.println("Average marks: " + average);
+                System.out.println("Average Marks: " + average);
 
 
             } catch (RangeException e) {
@@ -41,7 +41,7 @@ public class Student_Marks {
                 System.out.println("Error: " + e.getMessage());
             } catch (Exception e) {
 
-                System.out.println("Invalid input. Please enter numeric values for marks.");
+                System.out.println("Invalid input. Please enter numeric values for Marks.");
             }
         }
     }
