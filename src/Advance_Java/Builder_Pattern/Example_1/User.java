@@ -7,7 +7,7 @@ public class User {
     private final String emailId;
     private final Integer contactNo;
 
-    private User(userBuilder builder) {
+    private User(userBuilder builder) { // takes inputs from userBuilder class and assigned/initialized in user constructor
         this.name = builder.name;
         this.age = builder.age;
         this.emailId = builder.emailId;

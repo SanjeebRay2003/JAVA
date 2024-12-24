@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Anonymous_innerClass/Anonymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_2/MemberClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_2/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_1/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_2/OuterClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_1/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Anonymous_innerClass/Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Anonymous_innerClass/Anonymous.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +40,7 @@
     "Application.Abstraction.executor": "Run",
     "Application.Advance_Java.Collection_Framework.Lists.Linked_List.linked_list.executor": "Run",
     "Application.Advance_Java.Lambda_Expressions.lambda.executor": "Run",
+    "Application.Anonymous.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Array_2D.executor": "Run",
     "Application.Array_Deque.executor": "Run",
@@ -161,13 +153,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MemberClass">
-    <configuration name="Device" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Static_innerClass.Example_1.Device" />
+  <component name="RunManager" selected="Application.Anonymous">
+    <configuration name="Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Anonymous_innerClass.Anonymous" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Nested_Classes.Static_innerClass.Example_1.*" />
+          <option name="PATTERN" value="Advance_Java.Nested_Classes.Anonymous_innerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,19 +220,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Anonymous" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MemberClass" />
       <item itemvalue="Application.Outer" />
       <item itemvalue="Application.OuterClass" />
-      <item itemvalue="Application.Device" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anonymous" />
         <item itemvalue="Application.MemberClass" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OuterClass" />
         <item itemvalue="Application.Outer" />
-        <item itemvalue="Application.Device" />
       </list>
     </recent_temporary>
   </component>
