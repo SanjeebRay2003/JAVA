@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Anonymous_innerClass/Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_2/MemberClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_2/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_1/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_2/OuterClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Member_innerClass/Example_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Nested_Classes/Static_innerClass/Example_1/Device.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +79,13 @@
     "Application.Interface.executor": "Run",
     "Application.KeySet.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MemberClass.executor": "Run",
     "Application.Multithreading.executor": "Run",
     "Application.Nested_try_catch.executor": "Run",
     "Application.OOPs.Practice_Abstranction_Interface.practice_1.executor": "Run",
     "Application.OOPs.methods.Practice.practice_2.executor": "Run",
+    "Application.Outer.executor": "Run",
+    "Application.OuterClass.executor": "Run",
     "Application.Overloading.executor": "Run",
     "Application.Overriding.executor": "Run",
     "Application.Polymorphism.executor": "Run",
@@ -152,26 +161,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Device">
-    <configuration name="Details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Builder_Pattern.Example_1.Details" />
-      <module name="JAVA-Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Advance_Java.Builder_Pattern.Example_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MemberClass">
     <configuration name="Device" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Inner_Classes.Static_innerClass.Device" />
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Static_innerClass.Example_1.Device" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Inner_Classes.Static_innerClass.*" />
+          <option name="PATTERN" value="Advance_Java.Nested_Classes.Static_innerClass.Example_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student_Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Builder_Pattern.Example_2.Student_Info" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Static_innerClass.Example_2.Main" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Builder_Pattern.Example_2.*" />
+          <option name="PATTERN" value="Advance_Java.Nested_Classes.Static_innerClass.Example_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student_Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Exception_Handling.Student_Marks" />
+    <configuration name="MemberClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Member_innerClass.Example_2.MemberClass" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Exception_Handling.*" />
+          <option name="PATTERN" value="Advance_Java.Nested_Classes.Member_innerClass.Example_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +201,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Inner_Classes.Member_innerClass.Test" />
+    <configuration name="Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Member_innerClass.Example_2.Outer" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Inner_Classes.Member_innerClass.*" />
+          <option name="PATTERN" value="Advance_Java.Nested_Classes.Member_innerClass.Example_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OuterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Nested_Classes.Static_innerClass.Example_2.OuterClass" />
+      <module name="JAVA-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Advance_Java.Nested_Classes.Static_innerClass.Example_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,19 +228,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MemberClass" />
+      <item itemvalue="Application.Outer" />
+      <item itemvalue="Application.OuterClass" />
       <item itemvalue="Application.Device" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Details" />
-      <item itemvalue="Application.Student_Info" />
-      <item itemvalue="Application.Student_Marks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberClass" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OuterClass" />
+        <item itemvalue="Application.Outer" />
         <item itemvalue="Application.Device" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Student_Marks" />
-        <item itemvalue="Application.Student_Info" />
-        <item itemvalue="Application.Details" />
       </list>
     </recent_temporary>
   </component>

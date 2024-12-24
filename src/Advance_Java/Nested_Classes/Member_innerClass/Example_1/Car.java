@@ -1,4 +1,4 @@
-package Advance_Java.Inner_Classes.Member_innerClass;
+package Advance_Java.Nested_Classes.Member_innerClass.Example_1;
 
 public class Car {
     public String model;
