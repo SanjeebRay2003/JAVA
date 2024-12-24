@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a46d5d2a-3c1f-4135-94cd-1d9c1854369f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/Example_2/Student_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Member_innerClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance_Java/Inner_Classes/Static_innerClass/Device.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/Example_1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/Example_1/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/Example_2/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Builder_Pattern/Example_2/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/Student_Marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_Java/Exception_Handling/Student_Marks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Application.Date_Time.executor": "Run",
     "Application.Date_Time_Formatter.executor": "Run",
     "Application.Details.executor": "Run",
+    "Application.Device.executor": "Run",
     "Application.Do_DoWhile_oops.executor": "Run",
     "Application.Dynamic_dispatch.executor": "Run",
     "Application.EntrySet.executor": "Run",
@@ -90,7 +91,9 @@
     "Application.Stream_Exp.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.Student_Info.executor": "Run",
+    "Application.Student_Marks.executor": "Run",
     "Application.Super.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.This_1.executor": "Run",
     "Application.This_2.executor": "Run",
     "Application.This_3.executor": "Run",
@@ -149,7 +152,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Student_Info">
+  <component name="RunManager" selected="Application.Device">
     <configuration name="Details" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance_Java.Builder_Pattern.Example_1.Details" />
       <module name="JAVA-Basics" />
@@ -163,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.Example" />
+    <configuration name="Device" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Inner_Classes.Static_innerClass.Device" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Streams.*" />
+          <option name="PATTERN" value="Advance_Java.Inner_Classes.Static_innerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="important_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Streams.important_methods" />
+    <configuration name="Student_Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Exception_Handling.Student_Marks" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Streams.*" />
+          <option name="PATTERN" value="Advance_Java.Exception_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance_Java.Optional_Class.optional" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance_Java.Inner_Classes.Member_innerClass.Test" />
       <module name="JAVA-Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Advance_Java.Optional_Class.*" />
+          <option name="PATTERN" value="Advance_Java.Inner_Classes.Member_innerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,19 +219,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Device" />
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Details" />
-      <item itemvalue="Application.Example" />
       <item itemvalue="Application.Student_Info" />
-      <item itemvalue="Application.optional" />
-      <item itemvalue="Application.important_methods" />
+      <item itemvalue="Application.Student_Marks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Device" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Student_Marks" />
         <item itemvalue="Application.Student_Info" />
         <item itemvalue="Application.Details" />
-        <item itemvalue="Application.optional" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.important_methods" />
       </list>
     </recent_temporary>
   </component>
